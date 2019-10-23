@@ -8,7 +8,7 @@
      
    Conexiuni:
      Pini KY-008          Pini Arduino
-       S  ------------------ 10 (sau orice pin digital PWM 9, 10, 11, 3, 5, 6)
+       S  ------------------ 10 (sau orice pin digital PWM 3, 5, 6, 9, 10, 11)
        NC ------------------ neconectat
        -  ------------------ GND
        
